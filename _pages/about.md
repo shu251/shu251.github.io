@@ -1,16 +1,19 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Sarah K. Hu"
+excerpt: "Microbial ecologist / Biological oceanographer / Postdoctoral Fellow at Woods Hole Oceanographic Institution"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Postdoctoral Fellow in [Julie Huber's lab](https://www2.whoi.edu/staff/jhuber/lab-group/) at Woods Hole Oceanographic Institution. My research is currently supported by the [Center for Dark Energy Biosphere Investigations](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi3qtG37f_iAhUOU98KHdFkD3IQFjAAegQIBRAC&url=https%3A%2F%2Fwww.darkenergybiosphere.org%2F&usg=AOvVaw3o1VabkigwVyYTINTw8Elr).  
 
-A data-driven personal website
+Single-celled microbial eukaryotes encompass a wide range of genetic, morphological, and functional diversity, positioning them at the epicenter of complex aquatic food webs. By understanding microbial eukaryotic nutritional roles (i.e., phototrophy, heterotrophy, and mixotrophy) and the impact these activities have on the surrounding microbial community and environment (i.e., rates of bacterial mortality, carbon transfer, regeneration of basic nutrients, etc.), we will have a more complete knowledge of their contributions to global biogeochemical cycles and how energy and carbon flows through to other trophic levels. I am a microbial ecologist and oceanographer working to characterize the in situ community and metabolic diversity of microbial eukaryotes. Currently, I am working on ways to combine molecular techniques and grazing experiments to understandmicrobial community structure and identify transcriptional patterns associated with key metabolic strategies.  
+
+
+Contact information
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
