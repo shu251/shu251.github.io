@@ -11,49 +11,77 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Woods Hole Oceanographic Institution, Woods Hole, MA	Postdoctoral Research Fellow, 2018-
+* University of Southern California, Los Angeles, CA	Ph.D., 2018
+* University of Washington, Seattle, WA	B.S., 2011
 
-Work experience
+Teaching Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019	*Summer Student Fellow Mentor* – Advised a student for WHOI’s undergraduate summer program. Student has been awarded travel grants to present findings at SACNAS 2019 (Honolulu, HI) and OSM 2020 (San Diego, CA).
+* 2013	*Teaching Assistant* – Introduction to Microbiology, USC
+* 2013	*NSF REU Mentor* – Mentor for undergraduate students, USC
+* 2012	*Teaching Assistant* – Organismal Biology and Evolution, USC
+* 2011-2012	*Underwater Interpreter* – Exhibit SCUBA Diver, Seattle Aquarium, Seattle, WA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Professional Activities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019-present	NSF Ideas Lab EukHiTS – Workshop participant on Research Frontiers and Grand Challenges in Microbial Eukaryote -Omics. Outcomes: lead author and co-author on opinion and review manuscripts, respectively. 
+* 2018-present	Ecological Dissertations in Aquatic Sciences – Participant, microbial group leader. Outcomes: lead author and co-author on perspective and review manuscripts, respectively.
+* 2014-present	Invited peer reviewer – including: ISME Journal, Molecular Ecology, Environmental Microbiology, Aquatic Microbial Ecology, mSystems, Deep Sea Research II, Limnology and Oceanography, & Microbial Ecology
+* 2017	WiSE Guest Speaker – Presenter and panelist for Women in STEM group, USC
+* 2017-present	Protocols.io – Ambassador, protist working group, & contributor 
+* 2016-2018	Co-founder & Chair Grad Student Association – USC 
+* 2015- 2017	Graduate student faculty liaison – USC 
+* 2016	Invited Guest Speaker – Yorkdale Elementary, LA
+* 2015	Invited Guest Speaker – Panel participant for careers in STEM at Port of Los Angeles High School, LA
+	Presenter – Introduction to microscopy and protists with Chattanooga High School, USC
+* 2011-2012	Marine Technologist I, Scientific diver – UW SAFS, Seattle, WA
+* 2010-2011	Research Intern – Northwest Fisheries Science Center, NOAA, Seattle, WA
+* 2009-2010	Research Intern – Fisheries Acoustics Research Lab, UW SAFS, Seattle, WA
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2018	C-DEBI Annual Meeting, Monterey, CA
+	Poster Presentation: Probing subseafloor microbial interactions via hydrothermal vent fluids: a focus on protists
+	Ocean Sciences Meeting, Portland, OR
+	Oral Presentation: A Hard Day’s Night: Shifts in microbial eukaryotic activity in the North Pacific Subtropical Gyre
+	Ph.D. dissertation defense, Los Angeles, CA
+	Oral Presentation: Genetic characterization of microbial eukaryotic diversity and metabolic potential
+* 2017	WiSE STEM Bytes Seminar, Los Angeles, CA
+	Oral Presentation: Characterizing microbial eukaryotic diversity and metabolic potential in the Eastern North Pacific
+	Invited department seminar speaker, Cal Poly Pomona, CA
+	Oral Presentation: Characterizing microbial eukaryotic diversity and metabolic potential in the Eastern North Pacific
+	Ocean Sciences Meeting, Honolulu, HI
+	Poster Presentation: ALOHA & SPOT: A metatranscriptomic comparison of key protistan taxonomic groups and processes within and below the euphotic zone
+	Graduate student department seminar, Los Angeles, CA
+	Oral Presentation: A taste of Station ALOHA: microbial eukaryotic diversity and function
+* 2016	Graduate student department seminar, Los Angeles, CA
+	Oral Presentation: Metabolic potential of microbial eukaryotic community off the coast of Southern California
+
+
+* 2016	A New Age of Discovery: Aquatic Microeukaryotes, Heidelberg, Germany
+	Poster Presentation: Metabolic potential of microbial eukaryotic community off the coast of Southern California
+	
+* 2015	San Pedro Ocean Time-series station workshop, Los Angeles, CA
+	Oral Presentation: Protistan diversity and activity inferred from RNA and DNA at a coastal ocean site in the Eastern North Pacific
+* 2014	Graduate student department seminar, Los Angeles, CA
+	Oral Presentation: Protistan diversity and activity inferred from RNA and DNA at a coastal ocean site in the Eastern North Pacific
+* 2014	Gordon Conference: Marine Microbes, Waltham, MA
+	Poster Presentation: Sequencing meets ecology: deciphering the active component of protistan assemblages
+* 2013	International Congress of Protistology, Vancouver, B.C.
+	Poster Presentation: Diversity of Marine Microbial Eukaryotes from a full-length rDNA sequence database: a new look at diversity analysis
+
+Awards & Fellowships
+  ======
+
+2018-2020	C-DEBI Postdoctoral Fellowship – WHOI 
+2018	Katrina J. Edwards Memorial Dissertation Award – USC 
+2017-2018	Tyler Environmental Fellowship for PhD students – USC 
+2016-2017	WiSE Merit Award for Current Doctoral Students – USC 
+2013-2016	WiSE Travel Grants – USC 
+2014	Graduate Student Travel Grant – USC 
+2014	Honorable Mention – NSF Graduate Research Fellowship Program
+2013	USC Wrigley Summer Fellowship – WIES, Catalina Island, CA
+2012	Outstanding Teaching Assistant Award – USC (General Biology)
+2011	Undergraduate Commencement speaker – UW SAFS, Class of 2011
+
