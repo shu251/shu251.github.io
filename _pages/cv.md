@@ -72,16 +72,16 @@ Talks
 	Poster Presentation: Diversity of Marine Microbial Eukaryotes from a full-length rDNA sequence database: a new look at diversity analysis
 
 Awards & Fellowships
-  ======
+======
 
-2018-2020	C-DEBI Postdoctoral Fellowship – WHOI 
-2018	Katrina J. Edwards Memorial Dissertation Award – USC 
-2017-2018	Tyler Environmental Fellowship for PhD students – USC 
-2016-2017	WiSE Merit Award for Current Doctoral Students – USC 
-2013-2016	WiSE Travel Grants – USC 
-2014	Graduate Student Travel Grant – USC 
-2014	Honorable Mention – NSF Graduate Research Fellowship Program
-2013	USC Wrigley Summer Fellowship – WIES, Catalina Island, CA
-2012	Outstanding Teaching Assistant Award – USC (General Biology)
-2011	Undergraduate Commencement speaker – UW SAFS, Class of 2011
+* 2018-2020	C-DEBI Postdoctoral Fellowship – WHOI 
+* 2018	Katrina J. Edwards Memorial Dissertation Award – USC 
+* 2017-2018	Tyler Environmental Fellowship for PhD students – USC 
+* 2016-2017	WiSE Merit Award for Current Doctoral Students – USC 
+* 2013-2016	WiSE Travel Grants – USC 
+* 2014	Graduate Student Travel Grant – USC 
+* 2014	Honorable Mention – NSF Graduate Research Fellowship Program
+* 2013	USC Wrigley Summer Fellowship – WIES, Catalina Island, CA
+* 2012	Outstanding Teaching Assistant Award – USC (General Biology)
+* 2011	Undergraduate Commencement speaker – UW SAFS, Class of 2011
 
