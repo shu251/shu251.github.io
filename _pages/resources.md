@@ -5,7 +5,14 @@ permalink: /resources/
 author_profile: true
 ---
 
-### Bioinformatic resources
+
+### Introduction to R
+
+### Practical Ecology
+
+### Meta'omics
+
+### Amplicon sequence analysis
 
 1. Introduction to tag-sequencing using [QIIME1](https://github.com/shu251/V4_tagsequencing_18Sdiversity_q1) or [QIIME2](https://github.com/shu251/qiime2_ASVworkflow_v8).
   + Implementing a snakemake workflow to make tag-sequencing pipeline more robust [HERE](https://github.com/shu251/tagseq-qiime2-snakemake)
@@ -14,6 +21,9 @@ author_profile: true
 3. Resources for time-series analysis: [code and analyses](https://github.com/shu251/18Sdiversity_diel) from [A Hard Day's Night](https://www.frontiersin.org/articles/10.3389/fmars.2018.00351/full)
 4. [Code](https://github.com/shu251/SPOT_metatranscriptome) from [a metatranscriptomic survey of protistan trophic strategies](https://onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.14259)
   + [EukZoo](https://zenodo.org/record/1476236#.XRdsuC2ZNTY) database, an aquatic protistan protein database for meta-omics studies
+
+### Else
+
 
 ###  Data management
 
