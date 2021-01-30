@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Home"
+  - title: "BIO"
     url: /about/
 
-  - title: "Research"
+  - title: "RESEARCH"
     url: /research/
 
 #  - title: "Presentations"
@@ -12,11 +12,11 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-  - title: "Resources"
+  - title: "CODE RESOURCES"
     url: /resources/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "CURRENT PROJECTS"
+    url: /currentprojects/
     
   - title: "CV"
     url: /cv/

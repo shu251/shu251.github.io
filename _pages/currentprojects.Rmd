@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CODE RESOURCES"
-permalink: /resources/
+title: "CURRENT PROJECTS"
+permalink: /currentprojects/
 author_profile: true
 ---
 
