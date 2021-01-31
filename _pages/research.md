@@ -8,6 +8,7 @@ author_profile: true
 ### **Single-celled microbial eukaryotes / protists / microeuks**
 What microbial eukaryotes are present in a marine environment? and what are they doing? These are the motivating questions of my research. Protistan (or microbial eukaryote) species make up the majority of the branches of the eukaryotic tree of life with their diverse physical forms (morphologies) and metabolisms or trophic strategies.   
 
+
 ### **Ecology of microbial eukaryotes at hydrothermal vents**
 Highly reduced and thermally charged venting fluids discharged from the subseafloor mix with surrounding seawater at hydrothermal vents – this creates a sharp geochemical gradient which promotes a hub of biological diversity. While studies of prokaryotic diversity at hydrothermal vent sites have highlighted the important roles microorganisms play in deep sea carbon cycling and offered a unique window into subseafloor microbial communities, depictions of deep-sea marine ecology and food webs are incomplete without characterization of single-celled microbial eukaryotes (protists). I am currently working on culture-independent techniques (tag-sequencing and metatranscriptomics) to provide a thorough understanding of protistan biogeography in and near venting fluids, focusing on the vent fluid-seawater interface. 
   I am specifically focusing on the role of phagotrophic protists at these niche environments. By coupling grazing and RNA-SIP experiments we can hone in on this important trophic interaction. 
@@ -30,6 +31,8 @@ Microbially-mediated biological processes are known to synchronize with regular 
 _The V4 hypervariable region_
 
 Advances in DNA sequencing capabilities over the past 20 years have enhanced studies of microbial ecology by providing an additional metric for testing phylogenetic hypotheses, supplementing classic microscopy-based approaches for species identification, and uncovering vast amounts of previously unknown diversity in virtually all environments on the planet. A major challenge in using DNA sequence information to catalog protistan species composition is the process of accurately assigning taxonomic identities and drawing ecological interpretations from sequence results. The most common approach for taxonomy characterization of a diverse community is to perform high-throughput tag-sequencing of a selected hypervariable region, which falls within the highly conserved 18S rRNA gene. However, limitations in high-throughput sequence read lengths [currently, maximum lengths generated from Illumina paired end sequencing are ~400-500 bps] do not provide the same taxonomic resolution as longer sequences (e.g. the entire 18S rRNA gene). Ecological intepretations from various hypervariable regions (of differing lengths) may differ when compared to results derived from full length 18S rRNA gene sequences [(Hu et al. 2015)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeu.12217). Currently, methods to apply full-length tag sequencing of conserved regions (like 18S) are not practical at large scales (i.e., too costly) - but targetting the longer V4 region (~400bp) where there are curated reference databases (like PR2) is a suitable alternative for characterizing diverse _in situ_ microbial populations.
+
+![Amplicons](/images/amplicon.png)
 
 _Opinions and moving forward_
 
