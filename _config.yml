@@ -80,6 +80,13 @@ social:
   links: # An array of links to social media profiles
 
 
+---
+toc: true
+toc_label: "Contents"
+toc_icon: "angle-double-down"
+---
+
+
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
@@ -241,6 +248,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
 
 # Sass/SCSS
 sass:

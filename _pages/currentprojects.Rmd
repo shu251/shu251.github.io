@@ -7,18 +7,14 @@ author_profile: true
 
 # Hydrothermal vent food web ecology
 
-![foodweb](/images/foodweb-map-simple.png){width=50%}
+<!-- ![foodweb](foodweb-map-simple.png){width=50%} -->
 
 # Dynamics of microbial eukaryotes in aquatic environments
 
-![coastalcalifornia](/images/ca-drawing.png){width=50%}
+<!-- ![coastalcalifornia](/images/ca-drawing.png){width=50%} -->
 
 # Untangling microbial interactions
 
-
-```{r  out.width = "50%"}
-include_graphics(/images/`Screen Shot 2021-01-31 at 5.35.37 PM`) 
-```
 
 # Computational resources for microbial eukaryotes
 
