@@ -3,16 +3,21 @@ layout: archive
 title: "CODE RESOURCES"
 permalink: /resources/
 author_profile: true
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    # theme: united
 ---
 
 
-### Introduction to R
+# Introduction to R
 
-### Practical Ecology
+# Practical Ecology
 
-### Meta'omics
+# Meta'omics
 
-### Amplicon sequence analysis
+# Amplicon sequence analysis
 
 1. Introduction to tag-sequencing using [QIIME1](https://github.com/shu251/V4_tagsequencing_18Sdiversity_q1) or [QIIME2](https://github.com/shu251/qiime2_ASVworkflow_v8).
   + Implementing a snakemake workflow to make tag-sequencing pipeline more robust [HERE](https://github.com/shu251/tagseq-qiime2-snakemake)
@@ -22,10 +27,12 @@ author_profile: true
 4. [Code](https://github.com/shu251/SPOT_metatranscriptome) from [a metatranscriptomic survey of protistan trophic strategies](https://onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.14259)
   + [EukZoo](https://zenodo.org/record/1476236#.XRdsuC2ZNTY) database, an aquatic protistan protein database for meta-omics studies
 
-### Else
+# Data management
+
+# Else
 
 
-###  Data management
+
 
 * [Keeping my R life organized](https://alexanderlabwhoi.github.io/post/anaconda-r-sarah/) details how I set up R with anaconda on my computer. Introduction to managing projects with conda environments. Includes description of R, RStudio, and IRKernel (jupyter notebooks).
 
