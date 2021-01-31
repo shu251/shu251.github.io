@@ -41,3 +41,9 @@ _Navigation_
 
 4. Commit all changes to github, including any cosmetic or navigation-based changes
 5. Push
+
+
+* Add images:
+```
+![Caption for the picture.](/path/to/image.png){width=50%}{height=50%}
+```
