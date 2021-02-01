@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Sarah K. Hu"
 excerpt: "Microbial ecologist / Biological oceanographer / Postdoctoral Investigator at Woods Hole Oceanographic Institution"
 author_profile: true
