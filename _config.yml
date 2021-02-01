@@ -80,13 +80,6 @@ social:
   links: # An array of links to social media profiles
 
 
----
-toc: true
-toc_label: "Contents"
-toc_icon: "angle-double-down"
----
-
-
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"

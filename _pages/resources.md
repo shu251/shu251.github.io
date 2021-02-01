@@ -1,8 +1,8 @@
 ---
-layout: archive
 title: "CODE RESOURCES"
+layout: archive
 permalink: /resources/
-author_profile: true
+author_profile: yes
 ---
 
 # Introduction to R

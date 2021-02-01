@@ -1,6 +1,7 @@
 ---
 title: "Deciphering the trophic strategies of microbial eukaryotes"
 layout: archive
+output: pdf_document
 permalink: /research/
 author_profile: yes
 ---
