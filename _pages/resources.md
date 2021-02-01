@@ -3,14 +3,7 @@ layout: archive
 title: "CODE RESOURCES"
 permalink: /resources/
 author_profile: true
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
-    theme: united
 ---
-
-_test_
 
 # Introduction to R
 [Generating figures](https://github.com/shu251/PreliminaryFigures_V4_tagseq) from HTS tag-sequencing data - OTU or ASV table as input

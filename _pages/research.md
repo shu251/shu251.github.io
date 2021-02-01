@@ -1,7 +1,6 @@
 ---
 title: "Deciphering the trophic strategies of microbial eukaryotes"
 layout: archive
-output: html_document
 permalink: /research/
 author_profile: yes
 ---
@@ -36,7 +35,7 @@ _The V4 hypervariable region_
 
 Advances in DNA sequencing capabilities over the past 20 years have enhanced studies of microbial ecology by providing an additional metric for testing phylogenetic hypotheses, supplementing classic microscopy-based approaches for species identification, and uncovering vast amounts of previously unknown diversity in virtually all environments on the planet. A major challenge in using DNA sequence information to catalog protistan species composition is the process of accurately assigning taxonomic identities and drawing ecological interpretations from sequence results. The most common approach for taxonomy characterization of a diverse community is to perform high-throughput tag-sequencing of a selected hypervariable region, which falls within the highly conserved 18S rRNA gene. However, limitations in high-throughput sequence read lengths [currently, maximum lengths generated from Illumina paired end sequencing are ~400-500 bps] do not provide the same taxonomic resolution as longer sequences (e.g. the entire 18S rRNA gene). Ecological intepretations from various hypervariable regions (of differing lengths) may differ when compared to results derived from full length 18S rRNA gene sequences [(Hu et al. 2015)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeu.12217). Currently, methods to apply full-length tag sequencing of conserved regions (like 18S) are not practical at large scales (i.e., too costly) - but targetting the longer V4 region (~400bp) where there are curated reference databases (like PR2) is a suitable alternative for characterizing diverse _in situ_ microbial populations.
 
-![Amplicons](/images/amplicon.png){width=50%}
+![Amplicons](/images/amplicon.png)
 
 _Opinions and moving forward_
 
