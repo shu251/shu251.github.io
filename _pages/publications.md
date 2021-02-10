@@ -8,16 +8,19 @@ author_profile: true
 
 ### By date
 _pending_
-* Ollison G., Hu, S.K., Mesrop, L.Y., Delong, E. & Caron, D. A. Come Rain or Shine: Depth Not Season Shapes the Protistan Community at Station ALOHA in the North Pacific Subtropical Gyre. (In Review, Deep-Sea Research Part I).
-
-* Hu, S.K., Herrera, E.L., Smith, A.R., Pachiadaki, M.G., Edgcomb, V.P., Sylva, S.P., Chan E.W., Seewald, J.S., German, C.R., & Huber, J.A. Protistan grazing impacts microbial communities and carbon cycling in the deep-sea hydrothermal vent environment. (In Prep).
 
 * Hu, S.K., Alexander, H., Liu, Z., Heidelberg, K.B., Dyhrman, S. & Caron, D.A. Distinct transcriptional signatures of the protistan community at the SPOT and ALOHA ocean time-series stations. (In Prep).
 
-## 2020
-* Coesel, S.N., Durham, B.P., Groussman, R.D., Hu, S.K., Caron, D.A., Morales, R.L., Ribalet, F., Armbrust, E.V. Diel transcriptional oscillations of light-sensitive regulatory elements in open ocean eukaryotic plankton communities. (In Press, Proc Natl Acad Sci USA).
+## 2021
+* Ollison G., Hu, S.K., Mesrop, L.Y., Delong, E. & Caron, D. A. Come Rain or Shine: Depth Not Season Shapes the Protistan Community at Station ALOHA in the North Pacific Subtropical Gyre. (Accepted, Deep-Sea Research Part II).
 
-* Krinos, A., Hu, S.K., Cohen, N.R. & Alexander, H. EUKulele: Taxonomic annotation of the unsung eukaryotic microbes. (In Press, Journal of Open Source Software) Preprint DOI:10.21105/joss.02799 
+* Hu, S.K., Herrera, E.L., Smith, A.R., Pachiadaki, M.G., Edgcomb, V.P., Sylva, S.P., Chan E.W., Seewald, J.S., German, C.R., & Huber, J.A. Protistan grazing impacts microbial communities and carbon cycling in the deep-sea hydrothermal vent environment. (Submitted). [Preprint available](https://www.biorxiv.org/content/10.1101/2021.02.08.430233v1)
+
+## 2020
+
+* Coesel, S.N., Durham, B.P., Groussman, R.D., Hu, S.K., Caron, D.A., Morales, R.L., et al. (2021) Diel transcriptional oscillations of light-sensitive regulatory elements in open-ocean eukaryotic plankton communities. Proc Natl Acad Sci USA 118: 12.
+
+* Krinos, A., Hu, S., Cohen, N., and Alexander, H. (2021) EUKulele: Taxonomic annotation of the unsung eukaryotic microbes. JOSS 6: 2817.
 
 * Goordial, J., Hu, S., & Tully, B. (2020). C-DEBI NextGen 2019 Early Career perspective on ‘What’s Next?’: Upcoming Challenges and Opportunities. DOI: 10.31219/osf.io/7xkpq
 
