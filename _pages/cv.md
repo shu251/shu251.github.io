@@ -17,6 +17,7 @@ Education
 
 Teaching Experience
 ======
+* 2020 *Bioinformatics Virtual Coordination Network* - Taught introduction to coding and the R programming language [BVCN](https://biovcnet.github.io/_pages/conference-2021/)
 * 2019	*Summer Student Fellow Mentor* – Advised a student for WHOI’s undergraduate summer program. Student has been awarded travel grants to present findings at SACNAS 2019 (Honolulu, HI) and OSM 2020 (San Diego, CA).
 * 2013	*Teaching Assistant* – Introduction to Microbiology, USC
 * 2013	*NSF REU Mentor* – Mentor for undergraduate students, USC
@@ -41,34 +42,70 @@ Professional Activities
 
 Talks
 ======
-* 2018	C-DEBI Annual Meeting, Monterey, CA
+_upcoming_
+* Invited guest speaker - University of Rhode Island
+* Invited guest speaker - Carleton College
+* Invited guest speaker - Microbiology Society Annual Conference
+
+
+2020
+* WHOI Biology Department, Woods Hole, MA
+Oral Presentation: The impact of phagotrophic protists at hot spots of primary production in the deep sea
+* WHOI Postdoctoral Symposium, Woods Hole, MA
+Oral Presentation: Protistan Predation Pressure at Hydrothermal vents
+* Online poster session #ProtistSession – ISOP/ISEP
+Poster Presentation: Protistan Predation Pressure at Hydrothermal vents
+* Global Environmental Microbiology Summer Course, Los Angeles, CA
+Guest Lecture: Buckets & Robots: oceanographers in the field
+* WHOI Marine Chemistry & Geochemistry Department, Woods Hole, MA
+Oral Presentation: The impact of phagotrophic protists at hot spots of primary production in the deep sea
+* UGA Skidaway Department Seminar, Savannah, GA
+Invited Oral Presentation: Ecological roles of microbial eukaryotes
+* Ocean Sciences Meeting, San Diego, CA
+Oral Presentation: The impact of phagotrophic protists at hot spots of primary production in the deep sea
+
+2019
+* C-DEBI Annual Meeting, Monterey, CA
+Oral Presentation: Ecological roles of microbial eukaryotes at hot spots of primary production in the deep sea
+* WHOI Postdoctoral Symposium, Woods Hole, MA
+Oral Presentation: Ecological roles of microbial eukaryotes at hot spots of primary production in the deep sea
+
+2018 
+* C-DEBI Annual Meeting, Monterey, CA
 	Poster Presentation: Probing subseafloor microbial interactions via hydrothermal vent fluids: a focus on protists
-	Ocean Sciences Meeting, Portland, OR
+* Ocean Sciences Meeting, Portland, OR
 	Oral Presentation: A Hard Day’s Night: Shifts in microbial eukaryotic activity in the North Pacific Subtropical Gyre
-	Ph.D. dissertation defense, Los Angeles, CA
+ * Ph.D. dissertation defense, Los Angeles, CA
 	Oral Presentation: Genetic characterization of microbial eukaryotic diversity and metabolic potential
-* 2017	WiSE STEM Bytes Seminar, Los Angeles, CA
+
+2017	
+* WiSE STEM Bytes Seminar, Los Angeles, CA
 	Oral Presentation: Characterizing microbial eukaryotic diversity and metabolic potential in the Eastern North Pacific
-	Invited department seminar speaker, Cal Poly Pomona, CA
+* Invited department seminar speaker, Cal Poly Pomona, CA
 	Oral Presentation: Characterizing microbial eukaryotic diversity and metabolic potential in the Eastern North Pacific
-	Ocean Sciences Meeting, Honolulu, HI
+* Ocean Sciences Meeting, Honolulu, HI
 	Poster Presentation: ALOHA & SPOT: A metatranscriptomic comparison of key protistan taxonomic groups and processes within and below the euphotic zone
-	Graduate student department seminar, Los Angeles, CA
+*	Graduate student department seminar, Los Angeles, CA
 	Oral Presentation: A taste of Station ALOHA: microbial eukaryotic diversity and function
-* 2016	Graduate student department seminar, Los Angeles, CA
+
+2016	
+* Graduate student department seminar, Los Angeles, CA
 	Oral Presentation: Metabolic potential of microbial eukaryotic community off the coast of Southern California
-
-
-* 2016	A New Age of Discovery: Aquatic Microeukaryotes, Heidelberg, Germany
+* A New Age of Discovery: Aquatic Microeukaryotes, Heidelberg, Germany
 	Poster Presentation: Metabolic potential of microbial eukaryotic community off the coast of Southern California
-	
-* 2015	San Pedro Ocean Time-series station workshop, Los Angeles, CA
+
+2015   
+* San Pedro Ocean Time-series station workshop, Los Angeles, CA
 	Oral Presentation: Protistan diversity and activity inferred from RNA and DNA at a coastal ocean site in the Eastern North Pacific
-* 2014	Graduate student department seminar, Los Angeles, CA
+
+2014	
+* Graduate student department seminar, Los Angeles, CA
 	Oral Presentation: Protistan diversity and activity inferred from RNA and DNA at a coastal ocean site in the Eastern North Pacific
-* 2014	Gordon Conference: Marine Microbes, Waltham, MA
+* Gordon Conference: Marine Microbes, Waltham, MA
 	Poster Presentation: Sequencing meets ecology: deciphering the active component of protistan assemblages
-* 2013	International Congress of Protistology, Vancouver, B.C.
+
+2013
+* International Congress of Protistology, Vancouver, B.C.
 	Poster Presentation: Diversity of Marine Microbial Eukaryotes from a full-length rDNA sequence database: a new look at diversity analysis
 
 Awards & Fellowships
