@@ -3,8 +3,8 @@ main:
 #  - title: "HOME"
 #    url: /home/
     
-#  - title: "ABOUT"
-#    url: /about/
+  - title: "ABOUT"
+    url: /about/
 
   - title: "RESEARCH"
     url: /research/
