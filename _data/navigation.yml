@@ -2,8 +2,6 @@
 main:
 #  - title: "HOME"
 #    url: /home/
-  - title: "BIO"
-    url: /
     
   - title: "BIO"
     url: /about/
