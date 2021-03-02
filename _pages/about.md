@@ -2,6 +2,7 @@
 permalink: /
 title: "BIO"
 excerpt: "Bio"
+layout: archive
 author_profile: yes
 redirect_from: 
   - /about/
