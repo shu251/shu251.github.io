@@ -1,9 +1,9 @@
 ---
-permalink: /
 title: "BIO"
 excerpt: "Bio"
 layout: archive
-author_profile: yes
+permalink: /
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html

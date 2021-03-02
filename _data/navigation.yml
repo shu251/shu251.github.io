@@ -5,6 +5,7 @@ main:
     
   - title: "BIO"
     url: /about/
+    redirect_from: /
 
   - title: "RESEARCH"
     url: /research/
