@@ -4,8 +4,7 @@ main:
 #    url: /home/
     
   - title: "BIO"
-    url: /about/
-    redirect_from: /
+    url: /
 
   - title: "RESEARCH"
     url: /research/
