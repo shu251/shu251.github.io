@@ -3,7 +3,7 @@ main:
 #  - title: "HOME"
 #    url: /home/
     
-  - title: "ABOUT"
+  - title: "BIO"
     url: /about/
 
   - title: "RESEARCH"

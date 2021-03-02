@@ -1,8 +1,7 @@
-
 ---
-layout: archive
-title: "About"
 permalink: /
+title: "BIO"
+excerpt: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
