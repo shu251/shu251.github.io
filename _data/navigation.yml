@@ -4,7 +4,7 @@ main:
 #    url: /home/
     
   - title: "BIO"
-    url: /
+    url: /about/
 
   - title: "RESEARCH"
     url: /research/

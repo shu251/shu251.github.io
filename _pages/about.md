@@ -1,6 +1,5 @@
 ---
-title: "BIO"
-excerpt: "Bio"
+title: "ABOUT"
 layout: archive
 permalink: /
 author_profile: true
